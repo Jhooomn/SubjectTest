@@ -1,6 +1,5 @@
 package com.app.api.infrastructure.mapper;
 
-import org.springframework.stereotype.Component;
 
 import com.app.api.domain.model.Subject;
 import com.app.api.infrastructure.dto.SubjectDto;
@@ -11,6 +10,7 @@ import com.app.api.shared.domain.Id;
 import com.app.api.shared.domain.Name;
 import com.app.api.shared.infrastructure.mapper.MapperDto;
 import com.app.api.shared.infrastructure.mapper.MapperRest;
+import org.springframework.stereotype.Component;
 
 @Component
 public class SubjectMapper implements MapperDto<SubjectDto, Subject>, MapperRest<SubjectRest, Subject> {
