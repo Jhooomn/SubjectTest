@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="junit:junit:4.12" type="repository">
+    <properties include-transitive-deps="false" maven-id="junit:junit:4.11" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-javadoc.jar!/" />
+    </excluded>
+  </library>
+</component>
